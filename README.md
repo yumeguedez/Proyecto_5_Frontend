@@ -9,7 +9,7 @@ Tambien se creó un boton de paypal el cual permite que el usuario pueda realiza
 
 Enlaces de interes para el desarrollo del proyecto:
 
-Repositorio Backend https://github.com/yumeguedez/Proyecto_5_backend
-Repositorio Frontend https://github.com/yumeguedez/Proyecto_5_Frontend
-Pagina publicada en render https://proyecto-5-backend-86l3.onrender.com/
+Repositorio Backend https://github.com/yumeguedez/Proyecto_5_backend  
+Repositorio Frontend https://github.com/yumeguedez/Proyecto_5_Frontend  
+Backend publicado en render https://proyecto-5-backend-86l3.onrender.com/  
 Pagina Publicada en netlify https://coruscating-gnome-8e826d.netlify.app/
