@@ -2,6 +2,7 @@ import { NavLink } from "react-router-dom";
 import { useContext } from "react";
 import AuthContext from "../context/AuthContext";
 import ProductContext from "../context/ProductContext";
+import Icono from "../assets/Icono.jpg";
 
 const PublicNavbar = () => {
   const { user, logout } = useContext(AuthContext);
@@ -10,12 +11,7 @@ const PublicNavbar = () => {
     <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
       <div className="container">
         <NavLink className="navbar-brand" to="/home">
-          <img
-            src="https://licoresdelasabana.com/wp-content/uploads/2021/04/licores-de-la-sabana.png"
-            alt
-            width={100}
-            height={100}
-          />
+          <img src={Icono} alt width={100} height={100} />
         </NavLink>
         <button
           className="navbar-toggler"
